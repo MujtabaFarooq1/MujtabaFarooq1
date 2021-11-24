@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mujtaba Farooq
 - 👀 I’m interested in full stack development and AI
-- 🌱 I’m currently learning React with Redux
+- 🌱 I’m currently learning AWS (Amazon Web Services) and Docker
 - 💞️ I’m looking to collaborate on any Reacy projects
 - 📫 How to reach me at mujtabafarooq730@gmail.com
 
